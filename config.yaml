@@ -1,0 +1,13 @@
+name: "Aeroh Cloud"
+description: "Integrate your Aeroh devices with Home Assistant!"
+version: "1.0.0"
+slug: "aeroh_cloud"
+url: "https://aeroh.org/kb"
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
+
